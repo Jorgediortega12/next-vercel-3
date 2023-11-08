@@ -1,7 +1,5 @@
-import Head from 'next/head'
-import Link from 'next/link'
-import { Navbar } from '../../components/Navbar'
-import { MainLayout } from '@/components/Layouts/MainLayout'
+import Link from 'next/link';
+import { MainLayout } from '@/components/Layouts/MainLayout';
 
 export default function ContactPage() {
   return (
